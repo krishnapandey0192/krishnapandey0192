@@ -1,18 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" href="https://github.com/SP-XD" width="550"/><br>
-</div>
-<!-- Alternative options you can try if the above doesn't work:
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-OR
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
-</div>
- 
- 
  Hi there 👋
 # 💫 About Me:
 I am Versatile and skilled Full-Stack Developer in MERN Stack. Proficient in a wide range of technologies including HTML, CSS, JavaScript, React, Tailwind, Material UI, Preline, Redux, Node.js, Express, Mongoose, Prisma, Kafka, Postgress and MongoDB. Adapt at crafting dynamic and responsive web applications, integrating frontend and backend technologies seamlessly. 
